@@ -1,0 +1,6 @@
+plugin:
+    name: 'kaisarhan.mailform::lang.plugin.name'
+    description: 'kaisarhan.mailform::lang.plugin.description'
+    author: Kaisarhan
+    icon: oc-icon-envelope
+    homepage: ''
